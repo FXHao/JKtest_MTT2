@@ -1,0 +1,35 @@
+Test Summarize:
+
+
+ID：0	Name：Guide	Args:[]
+Function: <bound method MyTalkingTom2_Guide.guide of <MyTalkingTom2.MyTalkingTom2_Guide object at 0x000002049EBDB940>>
+Test Failed
+
+
+ID：1	Name：CheckSplash	Args:[]
+Function: <bound method MyTalkingTom2_Ad.checkSplash of <MyTalkingTom2.MyTalkingTom2_Ad object at 0x000002049EBDB8D0>>
+Function Configered
+
+
+ID：2	Name：CheckBanner	Args:[]
+Function: <bound method MyTalkingTom2_Ad.checkBanner of <MyTalkingTom2.MyTalkingTom2_Ad object at 0x000002049EBDB8D0>>
+Function Configered
+
+
+ID：3	Name：CheckInterstitial	Args:[]
+Function: <bound method MyTalkingTom2_Ad.checkInterstitial of <MyTalkingTom2.MyTalkingTom2_Ad object at 0x000002049EBDB8D0>>
+Function Configered
+
+
+ID：4	Name：CheckVideo	Args:[]
+Function: <bound method MyTalkingTom2_Ad.checkVideo of <MyTalkingTom2.MyTalkingTom2_Ad object at 0x000002049EBDB8D0>>
+Function Configered
+
+================================
+注: 失败的测试指流程执行失败
+Total Case: 5
+Succeed Case: 0
+Failed Case: 1
+Function Not Found Case: 0
+Other Case: 4
+================================

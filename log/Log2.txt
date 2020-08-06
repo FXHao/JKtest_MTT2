@@ -1,0 +1,171 @@
+Test Summarize:
+
+
+ID：0	Name：StopApp	Args:[]
+Function: <bound method Game.stop_app of <MyTalkingTom.MyTalkingTom object at 0x0000023BDDF14278>>
+
+Test Successed
+
+
+ID：1	Name：ClearApp	Args:[]
+Function: <bound method Game.clear_app of <MyTalkingTom.MyTalkingTom object at 0x0000023BDDF14278>>
+
+Test Successed
+
+
+ID：2	Name：StartApp	Args:[]
+Function: <bound method Game.start_app of <MyTalkingTom.MyTalkingTom object at 0x0000023BDDF14278>>
+
+Test Successed
+
+
+ID：3	Name：Guide	Args:[]
+Function: <bound method MyTalkingTom_Guide.guide of <MyTalkingTom.MyTalkingTom_Guide object at 0x0000023BDDF74390>>
+
+Test Successed
+
+
+ID：4	Name：Setting	Args:[]
+Function: <bound method MyTalkingTom_Guide.setting of <MyTalkingTom.MyTalkingTom_Guide object at 0x0000023BDDF74390>>
+
+Test Successed
+TestPoint: Guide_Setting
+
+
+ID：5	Name：Shop	Args:[]
+Function: <bound method MyTalkingTom_Guide.shop of <MyTalkingTom.MyTalkingTom_Guide object at 0x0000023BDDF74390>>
+
+Test Successed
+TestPoint: Guide_CheckShop
+Shop item exists, No.1
+Shop item exists, No.2
+Shop item exists, No.3
+Shop item exists, No.4
+Shop item exists, No.5
+Shop item exists, No.6
+Shop item exists, No.7
+
+
+ID：6	Name：MiniGame	Args:[]
+Function: <bound method MyTalkingTom_Guide.minigame of <MyTalkingTom.MyTalkingTom_Guide object at 0x0000023BDDF74390>>
+
+Test Successed
+TestPoint: Guide_MiniGame
+
+
+ID：7	Name：CheckSplash	Args:[]
+Function: <bound method MyTalkingTom_Ad.checkSplash of <MyTalkingTom.MyTalkingTom_Ad object at 0x0000023BDDF74E10>>
+
+Test Successed
+该渠道未发现普通开屏
+
+
+ID：8	Name：CheckBanner_LiviningRoom	Args:['CheckBanner']
+Function: <bound method MyTalkingTom_Ad.checkBanner_Livingroom of <MyTalkingTom.MyTalkingTom_Ad object at 0x0000023BDDF74E10>>
+
+Test Successed
+TestPoint: CheckBanner_Livingroom_MainScreen
+未显示Banner
+TestPoint: CheckBanner_Livingroom_MiniGameSelectScreen
+未显示Banner
+TestPoint: CheckBanner_Livingroom_MiniGame No.0
+未显示Banner
+TestPoint: CheckBanner_Livingroom_MiniGame No.1
+未显示Banner
+TestPoint: CheckBanner_Livingroom_MiniGame No.2
+未显示Banner
+TestPoint: CheckBanner_Livingroom_MiniGame No.3
+未显示Banner
+TestPoint: CheckBanner_Livingroom_MiniGame No.4
+未显示Banner
+TestPoint: CheckBanner_Livingroom_MiniGame No.5
+未显示Banner
+TestPoint: CheckBanner_Livingroom_MiniGame No.6
+未显示Banner
+TestPoint: CheckBanner_Livingroom_MiniGame No.7
+未显示Banner
+TestPoint: CheckBanner_Livingroom_MiniGame No.8
+未显示Banner
+TestPoint: CheckBanner_Livingroom_MiniGame No.9
+未显示Banner
+TestPoint: CheckBanner_Livingroom_MiniGame No.10
+未显示Banner
+TestPoint: CheckBanner_Livingroom_MiniGame No.11
+未显示Banner
+TestPoint: CheckBanner_Livingroom_MiniGame No.12
+未显示Banner
+TestPoint: CheckBanner_Livingroom_MiniGame No.13
+未显示Banner
+TestPoint: CheckBanner_Livingroom_MiniGame No.14
+未显示Banner
+
+
+ID：9	Name：CheckBanner_Kitchen	Args:[]
+Function: <bound method MyTalkingTom_Ad.checkBanner_Kitchen of <MyTalkingTom.MyTalkingTom_Ad object at 0x0000023BDDF74E10>>
+
+Test Successed
+TestPoint: CheckBanner_Kitchen_MainScreen
+未显示Banner
+TestPoint: CheckBanner_Kitchen_Refrigerator
+未显示Banner
+
+
+ID：10	Name：CheckBanner_Bathroom	Args:[]
+Function: <bound method MyTalkingTom_Ad.checkBanner_Bathroom of <MyTalkingTom.MyTalkingTom_Ad object at 0x0000023BDDF74E10>>
+
+Test Successed
+TestPoint: CheckBanner_Bathroom_MainScreen
+未显示Banner
+
+
+ID：11	Name：CheckBanner_Bedroom	Args:[]
+Function: <bound method MyTalkingTom_Ad.checkBanner_Bedroom of <MyTalkingTom.MyTalkingTom_Ad object at 0x0000023BDDF74E10>>
+
+Test Successed
+TestPoint: CheckBanner_Bedroom_MainScreen
+未显示Banner
+
+
+ID：12	Name：CheckInterstitial	Args:[]
+Function: <bound method MyTalkingTom_Ad.checkInterstitial of <MyTalkingTom.MyTalkingTom_Ad object at 0x0000023BDDF74E10>>
+
+Test Successed
+TestPoint: CheckInterstitial_GoToLivingroom
+未显示插屏广告
+TestPoint: CheckInterstitial_GoToKitchen
+未显示插屏广告
+TestPoint: CheckInterstitial_GoToBathroom
+未显示插屏广告
+未显示插屏广告
+TestPoint: CheckInterstitial_GoToBedroom
+未显示插屏广告
+未显示插屏广告
+未显示插屏广告
+TestPoint: CheckInterstitial_GoToLivingroom
+未显示插屏广告
+TestPoint: CheckInterstitial_GoToKitchen
+未显示插屏广告
+TestPoint: CheckInterstitial_GoToBathroom
+未显示插屏广告
+未显示插屏广告
+TestPoint: CheckInterstitial_GoToBedroom
+未显示插屏广告
+未显示插屏广告
+未显示插屏广告
+
+
+ID：13	Name：CheckVideo	Args:[]
+Function: <bound method MyTalkingTom_Ad.checkVideo of <MyTalkingTom.MyTalkingTom_Ad object at 0x0000023BDDF74E10>>
+
+Test Successed
+TestPoint: CheckVideo
+TestPoint: VideoNotFound
+
+================================
+注: 失败的测试指流程执行失败
+Total Case: 14
+Succeed Case: 14
+Failed Case: 0
+Function Not Found Case: 0
+Other Case: 0
+================================
